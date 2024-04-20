@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(8,77)" font-size="88" style="fill:rgb(35, 137, 142)">produto</text>
+<text transform="translate(61,193)" font-size="80" style="fill:rgb(35, 136, 142)">confuso</text>
+<text transform="translate(24,117)" font-size="51" style="fill:rgb(173, 220, 48)">preferências</text>
+<text transform="translate(264,140)" font-size="31" style="fill:rgb(112, 207, 87)">estoque</text>
+<text transform="translate(1,19)" font-size="30" style="fill:rgb(127, 211, 78)">nova compra</text>
+<text transform="translate(147,144)" font-size="28" style="fill:rgb(65, 66, 135)">ter</text>
+<text transform="translate(6,143)" font-size="18" style="fill:rgb(129, 211, 77)">lista compra</text>
+<text transform="translate(234,14)" font-size="17" style="fill:rgb(197, 224, 33)">funcionalidade</text>
+<text transform="translate(2,163)" font-size="16" style="fill:rgb(71, 47, 125)">gostei</text>
+<text transform="translate(46,130)" font-size="15" style="fill:rgb(210, 226, 27)">funcionário</text>
+<text transform="translate(238,28)" font-size="14" style="fill:rgb(71, 45, 123)">muita</text>
+<text transform="translate(317,26)" font-size="14" style="fill:rgb(152, 216, 62)">adicionar</text>
+<text transform="translate(69,79) rotate(-90)" font-size="14" style="fill:rgb(34, 141, 141)">deveria</text>
+<text transform="translate(94,82) rotate(-90)" font-size="14" style="fill:rgb(36, 170, 131)">tipo</text>
+<text transform="translate(2,181)" font-size="13" style="fill:rgb(35, 137, 142)">relação</text>
+<text transform="translate(1,195)" font-size="13" style="fill:rgb(61, 78, 138)">primeira</text>
+<text transform="translate(207,128)" font-size="13" style="fill:rgb(241, 229, 29)">confusa</text>
+<text transform="translate(384,83) rotate(-90)" font-size="13" style="fill:rgb(30, 156, 137)">entendi</text>
+<text transform="translate(260,85)" font-size="10" style="fill:rgb(84, 197, 104)">comprado</text>
+<text transform="translate(12,48) rotate(-90)" font-size="10" style="fill:rgb(41, 121, 142)">novo</text>
+<text transform="translate(297,181)" font-size="10" style="fill:rgb(64, 189, 114)">acho</text>
+<text transform="translate(79,26)" font-size="9" style="fill:rgb(30, 155, 138)">acredito</text>
+<text transform="translate(82,181)" font-size="9" style="fill:rgb(72, 22, 104)">geral</text>
+<text transform="translate(237,148)" font-size="9" style="fill:rgb(99, 203, 95)">entender</text>
+<text transform="translate(165,85)" font-size="9" style="fill:rgb(160, 218, 57)">objetivo</text>
+<text transform="translate(33,85)" font-size="9" style="fill:rgb(56, 89, 140)">lista</text>
+<text transform="translate(12,27)" font-size="9" style="fill:rgb(72, 36, 117)">itens</text>
+<text transform="translate(298,55)" font-size="9" style="fill:rgb(61, 188, 116)">algo</text>
+<text transform="translate(321,85)" font-size="9" style="fill:rgb(55, 91, 141)">compra</text>
+<text transform="translate(233,168)" font-size="9" style="fill:rgb(80, 196, 106)">meio</text>
+<text transform="translate(172,125)" font-size="9" style="fill:rgb(42, 118, 142)">alguma</text>
+<text transform="translate(95,80)" font-size="9" style="fill:rgb(127, 211, 78)">botão</text>
+<text transform="translate(267,55)" font-size="9" style="fill:rgb(57, 86, 140)">fez</text>
+<text transform="translate(80,172)" font-size="9" style="fill:rgb(34, 168, 132)">onde</text>
+<text transform="translate(396,99) rotate(-90)" font-size="9" style="fill:rgb(59, 81, 139)">movimentação</text>
+<text transform="translate(220,74) rotate(-90)" font-size="8" style="fill:rgb(45, 112, 142)">preferencias</text>
+<text transform="translate(189,140)" font-size="8" style="fill:rgb(70, 8, 92)">partes</text>
+<text transform="translate(217,198) rotate(-90)" font-size="8" style="fill:rgb(46, 111, 142)">simples</text>
+<text transform="translate(153,26)" font-size="8" style="fill:rgb(181, 222, 43)">sistema</text>
+<text transform="translate(67,107)" font-size="8" style="fill:rgb(165, 219, 54)">abas</text>
+<text transform="translate(231,179)" font-size="8" style="fill:rgb(38, 130, 142)">poder</text>
+<text transform="translate(245,68) rotate(-90)" font-size="8" style="fill:rgb(186, 222, 40)">diminuir</text>
+<text transform="translate(8,118) rotate(-90)" font-size="8" style="fill:rgb(54, 92, 141)">informação</text>
+<text transform="translate(270,64)" font-size="8" style="fill:rgb(70, 51, 127)">bom</text>
+<text transform="translate(349,196) rotate(-90)" font-size="8" style="fill:rgb(119, 209, 83)">quantidade</text>
+<text transform="translate(185,196) rotate(-90)" font-size="8" style="fill:rgb(72, 36, 117)">perdido</text>
+<text transform="translate(281,105)" font-size="8" style="fill:rgb(205, 225, 29)">melhor</text>
+<text transform="translate(242,196)" font-size="8" style="fill:rgb(94, 201, 98)">pra</text>
+<text transform="translate(298,146)" font-size="7" style="fill:rgb(68, 57, 131)">selecionar</text>
+<text transform="translate(86,45)" font-size="7" style="fill:rgb(62, 76, 138)">tempo</text>
+<text transform="translate(237,187)" font-size="7" style="fill:rgb(124, 210, 80)">mim</text>
+<text transform="translate(5,150)" font-size="7" style="fill:rgb(229, 228, 25)">página</text>
+<text transform="translate(266,45)" font-size="7" style="fill:rgb(31, 162, 135)">sobre</text>
+<text transform="translate(357,146)" font-size="7" style="fill:rgb(99, 203, 95)">cadastro</text>
+<text transform="translate(349,63) rotate(-90)" font-size="7" style="fill:rgb(32, 146, 140)">etapa</text>
+<text transform="translate(197,6)" font-size="6" style="fill:rgb(251, 231, 35)">intuitivo</text>
+<text transform="translate(362,168)" font-size="6" style="fill:rgb(66, 64, 134)">senti</text>
+<text transform="translate(91,85)" font-size="6" style="fill:rgb(69, 55, 129)">aplicação</text>
+<text transform="translate(265,70)" font-size="6" style="fill:rgb(50, 182, 122)">juntas</text>
+<text transform="translate(322,77) rotate(-90)" font-size="6" style="fill:rgb(149, 216, 64)">sei</text>
+<text transform="translate(198,147)" font-size="6" style="fill:rgb(194, 223, 35)">telas</text>
+<text transform="translate(281,181) rotate(-90)" font-size="6" style="fill:rgb(184, 222, 41)">conseguir</text>
+<text transform="translate(3,126)" font-size="6" style="fill:rgb(66, 190, 113)">forma</text>
+<text transform="translate(307,46)" font-size="6" style="fill:rgb(74, 193, 109)">porém</text>
+<text transform="translate(129,53)" font-size="6" style="fill:rgb(34, 167, 133)">task</text>
+<text transform="translate(215,12)" font-size="6" style="fill:rgb(202, 225, 31)">fonte</text>
+<text transform="translate(234,86)" font-size="6" style="fill:rgb(46, 109, 142)">demais</text>
+<text transform="translate(25,54)" font-size="6" style="fill:rgb(38, 129, 142)">nisso</text>
+<text transform="translate(273,181) rotate(-90)" font-size="6" style="fill:rgb(68, 1, 84)">possui</text>
+<text transform="translate(362,120) rotate(-90)" font-size="6" style="fill:rgb(176, 221, 47)">difícil</text>
+<text transform="translate(197,153)" font-size="6" style="fill:rgb(115, 208, 86)">ver</text>
+<text transform="translate(158,182) rotate(-90)" font-size="6" style="fill:rgb(31, 161, 136)">separada</text>
+<text transform="translate(11,168)" font-size="6" style="fill:rgb(46, 111, 142)">sessões</text>
+<text transform="translate(301,63)" font-size="6" style="fill:rgb(45, 178, 125)">textos</text>
+<text transform="translate(179,113) rotate(-90)" font-size="6" style="fill:rgb(210, 226, 27)">pode</text>
+<text transform="translate(206,189) rotate(-90)" font-size="6" style="fill:rgb(52, 97, 141)">ficaria</text>
+<text transform="translate(112,65) rotate(-90)" font-size="6" style="fill:rgb(72, 193, 110)">select</text>
+<text transform="translate(353,84)" font-size="6" style="fill:rgb(71, 13, 96)">ainda</text>
+<text transform="translate(168,72) rotate(-90)" font-size="6" style="fill:rgb(90, 200, 100)">funcionando</text>
+<text transform="translate(327,100) rotate(-90)" font-size="6" style="fill:rgb(56, 185, 119)">todo</text>
+<text transform="translate(253,57) rotate(-90)" font-size="6" style="fill:rgb(34, 167, 133)">estranho</text>
+<text transform="translate(64,184) rotate(-90)" font-size="6" style="fill:rgb(53, 95, 141)">interessante</text>
+<text transform="translate(73,18)" font-size="6" style="fill:rgb(197, 224, 33)">vista</text>
+<text transform="translate(61,84)" font-size="6" style="fill:rgb(176, 221, 47)">alguns</text>
+<text transform="translate(267,77)" font-size="6" style="fill:rgb(49, 181, 123)">botões</text>
+<text transform="translate(123,25)" font-size="6" style="fill:rgb(44, 177, 126)">clara</text>
+<text transform="translate(30,148)" font-size="6" style="fill:rgb(127, 211, 78)">dentro</text>
+<text transform="translate(379,13)" font-size="6" style="fill:rgb(137, 213, 72)">icone</text>
+<text transform="translate(183,53)" font-size="6" style="fill:rgb(144, 215, 67)">falta</text>
+<text transform="translate(140,118) rotate(-90)" font-size="6" style="fill:rgb(44, 115, 142)">parece</text>
+<text transform="translate(192,114)" font-size="6" style="fill:rgb(236, 229, 27)">guia</text>
+<text transform="translate(123,176)" font-size="6" style="fill:rgb(60, 80, 139)">ideia</text>
+<text transform="translate(144,197)" font-size="5" style="fill:rgb(31, 161, 135)">dificuldade</text>
+<text transform="translate(281,197)" font-size="5" style="fill:rgb(32, 147, 140)">concluída</text>
+<text transform="translate(101,71) rotate(-90)" font-size="5" style="fill:rgb(55, 90, 140)">consegui</text>
+<text transform="translate(83,162)" font-size="5" style="fill:rgb(34, 168, 132)">abriria</text>
+<text transform="translate(298,20)" font-size="5" style="fill:rgb(84, 197, 104)">entrar</text>
+<text transform="translate(365,175)" font-size="5" style="fill:rgb(51, 98, 141)">fácil</text>
+<text transform="translate(70,5)" font-size="5" style="fill:rgb(46, 109, 142)">sentido</text>
+<text transform="translate(57,110) rotate(-90)" font-size="5" style="fill:rgb(31, 152, 139)">concluir</text>
+<text transform="translate(98,109)" font-size="5" style="fill:rgb(70, 52, 128)">intuitiva</text>
+<text transform="translate(9,108)" font-size="5" style="fill:rgb(60, 79, 138)">mesma</text>
+<text transform="translate(146,117) rotate(-90)" font-size="5" style="fill:rgb(71, 19, 101)">facilitar</text>
+<text transform="translate(321,162)" font-size="5" style="fill:rgb(31, 158, 137)">sessão</text>
+<text transform="translate(202,160)" font-size="5" style="fill:rgb(74, 193, 109)">tópico</text>
+<text transform="translate(182,59)" font-size="4" style="fill:rgb(59, 82, 139)">massa</text>
+<text transform="translate(310,197)" font-size="4" style="fill:rgb(56, 89, 140)">separar</text>
+<text transform="translate(48,171)" font-size="4" style="fill:rgb(168, 219, 52)">nao</text>
+<text transform="translate(327,73) rotate(-90)" font-size="4" style="fill:rgb(31, 153, 138)">lotar</text>
+<text transform="translate(397,155) rotate(-90)" font-size="4" style="fill:rgb(160, 218, 57)">informacoes</text>
+<text transform="translate(149,81)" font-size="4" style="fill:rgb(149, 216, 64)">labels</text>
+<text transform="translate(150,122)" font-size="4" style="fill:rgb(31, 152, 139)">poderiam</text>
+<text transform="translate(143,86)" font-size="4" style="fill:rgb(69, 53, 129)">confesso</text>
+<text transform="translate(264,197)" font-size="4" style="fill:rgb(53, 95, 141)">opções</text>
+<text transform="translate(133,60)" font-size="4" style="fill:rgb(37, 131, 142)">login</text>
+<text transform="translate(10,116)" font-size="4" style="fill:rgb(68, 1, 84)">vejo</text>
+<text transform="translate(5,185)" font-size="4" style="fill:rgb(181, 222, 43)">podem</text>
+</svg>
